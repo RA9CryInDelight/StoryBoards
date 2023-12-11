@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "353c606e142a1f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "喂？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我在这.md",
+                "file": "喂？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我在这.md",
+                "file": "喂？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我在这.md"
+                "file": "喂？.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e01921b32eaea7d",
+  "active": "353c606e142a1f4a",
   "lastOpenFiles": [
-    "README.md",
     "我在这.md",
+    "喂？.md",
+    "README.md",
     "Untitled 1",
     "Untitled"
   ]
