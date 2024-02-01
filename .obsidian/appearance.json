@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#7afff6",
+  "baseFontSize": 22,
+  "cssTheme": "Solarized",
+  "theme": "obsidian"
 }

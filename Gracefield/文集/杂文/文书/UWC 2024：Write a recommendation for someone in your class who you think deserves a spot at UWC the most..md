@@ -1,0 +1,7 @@
+I would recommend Larry Lin to be accepted by UWC. Larry is a close friend of mine. He is smart and diligent. He performs excellent work at school and also studies hard in his spare time. He has completed lots of courses in mathematics and computer science independently. He had written a couple of papers that are posted on IEEE. Yet, he is very modest about all his achievements. 
+
+Larry is also a peaceful and kind-hearted person. We used to go to volunteer activities together every week. He did a great job at comforting children with autism. Kids liked him too. I could see changes in him as time passed. He had become more patient and generous. 
+
+As close friends, we talked a lot about life and philosophy. We would talk about books we both read and exchange ideas. I noticed that Larry has lots of intriguing and creative thoughts. He is usually quiet in front of the crowd, but he does think deeply. He showed passion and curiosity to this world and society. He has his unique views when we talk about different questions related to philosophy and society. But he is never a stubborn person. He is always open-minded and is willing to accept different ideas. As a result, our conversation is never a debate, but more of an exchange of opinions to question itself.
+
+To conclude, Larry is the best person who I think is well-suited for UWC. He is excellent and deserves a chance.

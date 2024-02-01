@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Gracefield  ",
+      "color": {
+        "a": 1,
+        "rgb": 65493
+      }
+    },
+    {
+      "query": "path:计划们  ",
+      "color": {
+        "a": 1,
+        "rgb": 194523
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 0.916666666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.229166666666667,
+  "repelStrength": 7.60416666666667,
+  "linkStrength": 0.958333333333333,
+  "linkDistance": 50,
+  "scale": 0.25034557043245514,
+  "close": true
+}

@@ -1,0 +1,1 @@
+Human are too pride. They think they could control everything, but they are just goldfish in the tank. The sea nurtured its flesh, but it does not know the existence of sea. Ignorant, how ignorant.

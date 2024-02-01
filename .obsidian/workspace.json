@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "7fd7e7d2890fdde3",
+    "id": "861b58ef5f541149",
     "type": "split",
     "children": [
       {
-        "id": "763525ace668a0a0",
+        "id": "ed1475b2c6e2ee80",
         "type": "tabs",
         "children": [
           {
-            "id": "84c0cc7fa1e7db54",
+            "id": "12886832085d1526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e01921b32eaea7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我在这.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "353c606e142a1f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "喂？.md",
+                "file": "Gracefield/JohnA/Diary/Diary2024/January/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d9b7a792aa6442a",
+    "id": "fd693906e4533667",
     "type": "split",
     "children": [
       {
-        "id": "b1f99a7d0247bb2b",
+        "id": "d9d21cf1df287e67",
         "type": "tabs",
         "children": [
           {
-            "id": "89d6c63a5ea45af9",
+            "id": "1e9489798d9697a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "7d1c9218f2f64359",
+            "id": "0d0b2f9a60a6b19c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "369bc69e4c04b958",
+            "id": "9e3162107b2600c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "d6512ea54020fd30",
+    "id": "e5bca29ff3d8aaef",
     "type": "split",
     "children": [
       {
-        "id": "d9d27602e35733bf",
+        "id": "2d02e0c86f87341b",
         "type": "tabs",
         "children": [
           {
-            "id": "081e72eec2b3521b",
+            "id": "ecee25b0f038675a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa93352146a78b46",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "喂？.md",
+                "file": "Gracefield/JohnA/Diary/Diary2024/January/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +105,19 @@
             }
           },
           {
-            "id": "fce939c4964b3e71",
+            "id": "cabefbeb9c6c1aa5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "喂？.md",
+                "file": "Gracefield/JohnA/Diary/Diary2024/January/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ac79367d18c27ab5",
+            "id": "3b5a8ade1d8b4e62",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,16 +128,25 @@
             }
           },
           {
-            "id": "5aca1eb098a8655a",
+            "id": "69cfe6d77bbedeac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "喂？.md"
+                "file": "Gracefield/JohnA/Diary/Diary2024/January/2024-01-31.md"
               }
             }
+          },
+          {
+            "id": "51c9a7bdb53b7641",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,15 +160,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "rpg-manager:RPG Manager": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "brain:brAIn": false
     }
   },
-  "active": "353c606e142a1f4a",
+  "active": "12886832085d1526",
   "lastOpenFiles": [
-    "我在这.md",
-    "喂？.md",
-    "README.md",
-    "Untitled 1",
-    "Untitled"
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-30.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-29.md",
+    "Gracefield/文集/杂文/文书/UWC2024 mock interview/Recording 20240124233459.webm",
+    "Gracefield/文集/杂文/文书/UWC2024 mock interview/Recording 20240124232929.webm",
+    "Gracefield/文集/杂文/文书/UWC2024 mock interview/Recording 20240124232734.webm",
+    "2024-02-01.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-31.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-28.md",
+    "Gracefield/JohnA/Diary/Diary2024/Diary filetype/10dbe031f3fd7184ccffb8ddb0ef6f0.png",
+    "Gracefield/JohnA/Diary/Diary2024/Diary filetype/70f6be82acddb7eeae843e695fd1ae9.png",
+    "Gracefield/计划们/2024/2024 2 月计划.md",
+    "Gracefield/计划们/2024/2024 1 月计划.md",
+    "Gracefield/JohnA/Diary/Diary2024/Diary filetype/微信图片_20240128235827.jpg",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-27.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-26.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-25.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-24.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-23.md",
+    "Gracefield/JohnA/Diary/Diary2024/January/2024-01-22.md"
   ]
 }
